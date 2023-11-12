@@ -12,7 +12,7 @@
 
 #### Требования к результаты 
 1. Прикрепите в файл README.md скриншот авторизации в админке.
-2. ![alt text](https://github.com/PavelKondakov22/8-03-hw/blob/main/админка%20заб.png)
+2. ![alt text](https://github.com/PavelKondakov22/8-03-hw/blob/main/VirtualBox_new_12_11_2023_12_10_42.png)
 3. Приложите в файл README.md текст использованных команд в GitHub.
 
 ---
