@@ -12,7 +12,7 @@
 
 #### Требования к результаты 
 1. Прикрепите в файл README.md скриншот авторизации в админке.
-#![alt text](https://github.com/PavelKondakov22/8-03-hw/blob/main/VirtualBox_new_12_11_2023_12_10_42.png)
+# ![alt text](https://github.com/PavelKondakov22/8-03-hw/blob/main/VirtualBox_new_12_11_2023_12_10_42.png)
 3. Приложите в файл README.md текст использованных команд в GitHub.
 # apt install postgresql
 wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
